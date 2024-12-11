@@ -1,0 +1,14 @@
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\CenterCursor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\CenterCursor.AssemblyInfoInputs.cache
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\CenterCursor.AssemblyInfo.cs
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\CenterCursor.csproj.CoreCompileInputs.cache
+C:\Users\User\CascadeProjects\CenterCursor\bin\Debug\net6.0-windows\CenterCursor.exe
+C:\Users\User\CascadeProjects\CenterCursor\bin\Debug\net6.0-windows\CenterCursor.deps.json
+C:\Users\User\CascadeProjects\CenterCursor\bin\Debug\net6.0-windows\CenterCursor.runtimeconfig.json
+C:\Users\User\CascadeProjects\CenterCursor\bin\Debug\net6.0-windows\CenterCursor.dll
+C:\Users\User\CascadeProjects\CenterCursor\bin\Debug\net6.0-windows\CenterCursor.pdb
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\CenterCursor.dll
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\refint\CenterCursor.dll
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\CenterCursor.pdb
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\CenterCursor.genruntimeconfig.cache
+C:\Users\User\CascadeProjects\CenterCursor\obj\Debug\net6.0-windows\ref\CenterCursor.dll
